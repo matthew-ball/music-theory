@@ -42,3 +42,4 @@ def major_pentatonic_scale(root): return create_scale(root, ['W', 'W', 'D', 'W',
 def minor_pentatonic_scale(root): return create_scale(root, ['D', 'W', 'W', 'D', 'W'])
 
 # --- chords ---
+
